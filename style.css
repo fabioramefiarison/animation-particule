@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#canvas{
+  background-color: rgb(12, 3, 34);
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  display: block;
+  height: 100vh;
+  background-color: rgb(12, 3, 34);
+}
+.Autor-Fabio{
+  position: absolute;
+  bottom: 10px;
+  left: 5vw;
+}
